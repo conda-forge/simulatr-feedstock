@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.1"
+  version: "0.1.0"
 
 package:
   name: simulatr
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/simulatr/simulatr-${{ version }}.tar.gz
-  sha256: 11c765c98e10a0d130fcd1267db11f04131f4e563e63a6991b044025a90cb628
+  sha256: 7291e4cc1de77a0a2035ac16fba11608614fd0ea310dd898162a059f090f37b2
 
 build:
   number: 0
