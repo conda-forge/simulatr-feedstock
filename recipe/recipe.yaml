@@ -35,6 +35,7 @@ requirements:
     - msgpack-python
     - numpy
     - pandas
+    - psutil
     - pydantic
     - pydantic-settings
     - pyzmq
